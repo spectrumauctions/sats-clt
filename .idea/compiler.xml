@@ -10,7 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sats-clt" target="1.7" />
+      <module name="sats-cli" target="1.7" />
+      <module name="sats-clt" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
