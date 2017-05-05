@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.spectrumauctions</groupId>
 	<artifactId>sats-clt</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.3.1-SNAPSHOT</version>
 	<name>SATS Command Line Tool</name>
 	<description></description>
 
